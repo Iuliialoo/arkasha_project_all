@@ -11,7 +11,7 @@ unigine_editor.cfg
 *.modified
 *.tlog
 
-Mao_Good_Transite.project
+# Mao_Good_Transite.project
 
 # # from Unigine doc 
 # /.thumbnails
