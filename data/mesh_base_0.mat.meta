@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>a44270c50ffa2b60f5cb673fd80d4b92e279f5c9</guid>
+	<type>material</type>
+	<hash>a84280c</hash>
+	<runtimes>
+		<runtime id="a44270c50ffa2b60f5cb673fd80d4b92e279f5c9" name="mesh_base_0" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

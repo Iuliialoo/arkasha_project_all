@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>d45aca10ed1d962fbb5d4dc285193239f04a3644</guid>
+	<type>launch_settings</type>
+	<hash>84896297</hash>
+	<runtimes>
+		<runtime id="d45aca10ed1d962fbb5d4dc285193239f04a3644" name="MyOptions.launch" link="0"/>
+	</runtimes>
+</asset>

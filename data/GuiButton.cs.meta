@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>907ffa5b0391ebfe9aad234585043be086613dbf</guid>
+	<type>component</type>
+	<hash>af00d8cb</hash>
+	<runtimes>
+		<runtime id="907ffa5b0391ebfe9aad234585043be086613dbf" name="GuiButton.cs" link="0"/>
+		<runtime id="ce2889b94e6ea7c4b1099053218759969da643fd" name="GuiButton.prop" link="1" type="4"/>
+	</runtimes>
+</asset>

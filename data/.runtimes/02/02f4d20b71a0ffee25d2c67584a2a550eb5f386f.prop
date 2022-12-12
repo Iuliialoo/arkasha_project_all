@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.15.1.0" name="Shoot" guid="02f4d20b71a0ffee25d2c67584a2a550eb5f386f" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="shootingCamera" type="node" filter="PlayerDummy"/>
+	<parameter name="shootInput" type="property" filter="7318c075bccc5750c469426fa3168d0245f4e879" flags="internal"/>
+	<parameter name="mask" type="mask" flags="intersection">-1</parameter>
+</property>

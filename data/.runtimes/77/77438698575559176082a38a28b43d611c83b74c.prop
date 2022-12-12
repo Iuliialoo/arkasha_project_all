@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.15.1.0" name="HUD" guid="77438698575559176082a38a28b43d611c83b74c" parent="657ecdbbfc83135a26777f86012da3587b67be0c" editable="0">
+	<parameter name="crosshairImage" type="file"/>
+	<parameter name="crosshairSize" type="int">10</parameter>
+</property>

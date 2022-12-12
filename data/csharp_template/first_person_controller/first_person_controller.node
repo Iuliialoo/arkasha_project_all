@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="ObjectDummy" id="218939090" trigger_interaction_enabled="1" name="first_person_controller">
+		<body type="BodyDummy" id="1616318079" frozen="0">
+			<shape type="ShapeCapsule" id="1425674244" transform="0.999999881 0 0 0 0 0.999999881 0 0 0 0 0.999999642 0 9.53674316e-07 9.53674316e-07 -1.32500052 1">
+				<radius>0.300000012</radius>
+				<height>1.14999998</height>
+			</shape>
+		</body>
+		<properties>
+			<property parent="7abd3d1dd6399bd8498bed57e699aacada031ba1" guid="cef21f113fc44d3c3b08c76b34c8b5cea42e42d5">
+				<parameter name="useObjectBody">0</parameter>
+				<parameter name="cameraMode">2</parameter>
+				<parameter name="camera">1115336465</parameter>
+				<parameter name="minVerticalAngle">-89.9000015</parameter>
+			</property>
+		</properties>
+		<transform>0.99999988 0 0 0.0 0 0.99999988 0 0.0 0 0 0.99999994 0.0 0 0 0 1.0</transform>
+	</node>
+</nodes>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>d8bf1eb263c06e69c17364b4defec883a80e5406</guid>
+	<type>texture</type>
+	<hash>3643e408</hash>
+	<runtimes>
+		<runtime id="d8bf1eb263c06e69c17364b4defec883a80e5406" name="aimRed.png" link="0" type="6"/>
+		<runtime id="000d5adc6ecc388bc0e8346eabdb70f56d824dd0" name="aimRed.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT5</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

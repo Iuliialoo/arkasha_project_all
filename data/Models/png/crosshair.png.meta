@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.15.1.0">
+	<guid>e950433ea15b11856d06d5204ed285ff346a5b52</guid>
+	<type>texture</type>
+	<hash>20ab7e04</hash>
+	<runtimes>
+		<runtime id="e950433ea15b11856d06d5204ed285ff346a5b52" name="crosshair.png" link="0" type="6"/>
+		<runtime id="313a42897247ea5493a751a35f600aa662c3a1cd" name="crosshair.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">DXT5</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

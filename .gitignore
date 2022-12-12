@@ -1,0 +1,37 @@
+.thumbnails
+bin
+data/microprofile_dump_html
+junk
+obj
+source/x64
+CMakeCache.txt
+source/**/*.obj
+unigine_editor.cfg
+*.cache
+*.modified
+*.tlog
+
+Mao_Good_Transite.project
+
+# # from Unigine doc 
+# /.thumbnails
+# /bin
+# /launch_debug.bat
+# /launch_editor.bat
+# /launch_release.bat
+
+# # from Unigine forum
+# /source/*.vcxproj.user
+# /source/*.VC.db
+# /source/*.opendb
+
+# # additional 
+# /data/.thumbnails
+# /data/.runtimes
+# /data/ComponentSystem -> we put under versioning only custom .prop not all automatically generated..
+# /data/guids.db -> should it be under versioning?
+# /data/*.cache
+# /data/entities/*.umount -> we ignore these mount points.. explanation in another post
+# /data/landscape/*.umount-> we ignore these mount points.. explanation in another post
+# /source/.vs/
+# /source/x64

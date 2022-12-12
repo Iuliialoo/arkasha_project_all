@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.15.1.0">
+	<node type="NodeReference" id="1777446179" name="first_person_controller">
+		<reference>guid://59e4bb833f8dab069c5b06ad189c382836a5bd67</reference>
+		<properties>
+			<property parent="02f4d20b71a0ffee25d2c67584a2a550eb5f386f" guid="c83ef04bf2b2092e649fbeb59e34c09017e61aaf">
+				<parameter name="shootingCamera">1115336465</parameter>
+			</property>
+		</properties>
+		<transform>-0.70710665 0.70710671 0 0.0 -0.70710671 -0.70710665 0 0.0 0 0 0.99999988 0.0 0 0 0 1.0</transform>
+		<node type="PlayerDummy" id="1115336465" name="PlayerDummy">
+			<znear>0.300000012</znear>
+			<zfar>100000</zfar>
+			<oblique_frustum_plane>0 0 -1 0</oblique_frustum_plane>
+			<is_oblique_frustum>0</is_oblique_frustum>
+			<is_main>1</is_main>
+			<is_listener>1</is_listener>
+			<controlled>1</controlled>
+			<transform>0.99961007 -0.027919274 -8.670612e-07 0.0 0.00048791704 0.017438095 0.99984777 0.0 -0.027915012 -0.99945807 0.017444922 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>
